@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/sellist_partners_test/static/css/main.de8d90a6.chunk.css",
+    "main.js": "/sellist_partners_test/static/js/main.f22bb4cb.chunk.js",
+    "main.js.map": "/sellist_partners_test/static/js/main.f22bb4cb.chunk.js.map",
+    "runtime-main.js": "/sellist_partners_test/static/js/runtime-main.91d0ee27.js",
+    "runtime-main.js.map": "/sellist_partners_test/static/js/runtime-main.91d0ee27.js.map",
+    "static/css/2.0a6490aa.chunk.css": "/sellist_partners_test/static/css/2.0a6490aa.chunk.css",
+    "static/js/2.8ec52ad0.chunk.js": "/sellist_partners_test/static/js/2.8ec52ad0.chunk.js",
+    "static/js/2.8ec52ad0.chunk.js.map": "/sellist_partners_test/static/js/2.8ec52ad0.chunk.js.map",
+    "index.html": "/sellist_partners_test/index.html",
+    "precache-manifest.a04ec0172195da423d85a1da205a0802.js": "/sellist_partners_test/precache-manifest.a04ec0172195da423d85a1da205a0802.js",
+    "service-worker.js": "/sellist_partners_test/service-worker.js",
+    "static/css/2.0a6490aa.chunk.css.map": "/sellist_partners_test/static/css/2.0a6490aa.chunk.css.map",
+    "static/css/main.de8d90a6.chunk.css.map": "/sellist_partners_test/static/css/main.de8d90a6.chunk.css.map",
+    "static/js/2.8ec52ad0.chunk.js.LICENSE.txt": "/sellist_partners_test/static/js/2.8ec52ad0.chunk.js.LICENSE.txt",
+    "static/media/MaskGroup.png": "/sellist_partners_test/static/media/MaskGroup.0c229ca2.png",
+    "static/media/MaskGroup2.png": "/sellist_partners_test/static/media/MaskGroup2.9ae16666.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91d0ee27.js",
+    "static/css/2.0a6490aa.chunk.css",
+    "static/js/2.8ec52ad0.chunk.js",
+    "static/css/main.de8d90a6.chunk.css",
+    "static/js/main.f22bb4cb.chunk.js"
+  ]
+}
